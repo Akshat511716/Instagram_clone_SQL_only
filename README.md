@@ -1,1 +1,1 @@
-# Instagram_clone_SQL_only
+# Instagram Database clone SQL only
